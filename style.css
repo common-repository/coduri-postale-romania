@@ -1,0 +1,36 @@
+/* 
+    Document   : style.css
+    Author     : Bluebay Design
+*/
+
+#codpostal_form_cod, #codpostal_form_adresa{
+    margin:5px 10px;
+}
+#codpostal_form_cod input[type="text"],#codpostal_form_adresa input[type="text"]{
+    width:96%;
+    display:block;
+    max-width:300px;
+    margin-bottom:5px;
+    padding:5px;
+}
+#codpostal_container_controls{
+    text-align:center;
+    max-width:300px;
+}
+#codpostal_afisaredate{
+    max-width:300px;
+    text-align:center;
+    padding:20px 10px;
+}
+#codpostal_afisaredate table td{
+    font-size:12px;
+    vertical-align: top;
+    text-align:left;
+}
+#codpostal_mesaj_coduri{
+    font-size:11px;
+    text-align:center;
+    color:#666;
+}
+
+
